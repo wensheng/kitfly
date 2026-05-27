@@ -1,0 +1,2 @@
+# kitfly
+Terminal flight simulator
