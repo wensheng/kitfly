@@ -1,0 +1,11 @@
+Model Information:
+* title:	FedEx Airplane
+* source:	https://sketchfab.com/3d-models/fedex-airplane-01af4899914f4b4ebe410f6a29b48c98
+* author:	United 2.0 (https://sketchfab.com/savounited)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FedEx Airplane" (https://sketchfab.com/3d-models/fedex-airplane-01af4899914f4b4ebe410f6a29b48c98) by United 2.0 (https://sketchfab.com/savounited) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
