@@ -2,6 +2,12 @@
 name = "kitfly"
 version = "0.1.0"
 edition = "2024"
+description = "Fly 3D airplane inside Terminal"
+license = "Apache-2.0"
+repository = "https://github.com/wensheng/kitfly"
+readme = "README.md"
+keywords = ["cli", "utility", "image", "3d"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 anyhow = "1.0"
