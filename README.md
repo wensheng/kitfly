@@ -2,30 +2,25 @@
 
 **Fly a tiny 3D plane through procedural terrain without leaving your terminal.**
 
-(kitfly runs on terminals that support the Kitty graphics protocol:
+(Part of kit* series of graphic terminal apps:
+[kitim](https://github.com/wensheng/kitim)
+[kitmd](https://github.com/wensheng/kitmd)
+[kitpdf](https://github.com/wensheng/kitpdf)
+[kitdraw](https://github.com/wensheng/kitdraw)
+[kitDOOM](https://github.com/wensheng/kitdoom)
+[kitfly](https://github.com/wensheng/kitfly))
+
+kitfly runs on terminals that support the Kitty graphics protocol:
 [**Ghostty**](https://ghostty.org/),
 [**Kitty**](https://sw.kovidgoyal.net/kitty/),
 [**WezTerm**](https://wezterm.net/),
-[**cmux**](https://github.com/manaflow-ai/cmux))
+[**cmux**](https://github.com/manaflow-ai/cmux)
 
 ## Install
 
     cargo install kitfly
 
 ---
-
-## Why
-
-- Stop opening a game window just to test a real-time 3D scene, camera, or controls loop.
-- Turn Kitty graphics into an actual flyable viewport, with Bevy rendering behind the scenes.
-- Keep the whole experience terminal-native: alternate screen, raw keyboard input, resize-aware frames, and no window handoff.
-
----
-
-<!-- ## Show, Don't Tell
-
-![kitfly demo placeholder](./assets/demo.gif)
--->
 
 ## Key Capabilities
 
